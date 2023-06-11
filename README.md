@@ -32,9 +32,8 @@ To run the YouTube Data Harvesting and Warehousing project, follow these steps:
 2. Install Required Libraries: Install the necessary Python libraries using pip or conda package manager. Required libraries include Streamlit, MongoDB driver, SQLAlchemy, Pandas, and Matplotlib.
 3. Set Up Google API: Set up a Google API project and obtain the necessary API credentials for accessing the YouTube API.
 4. Configure Database: Set up a MongoDB database and SQL database (MySQL) for storing the data.
-5. Clone the Project: Clone the project repository from the version control system (e.g., GitHub).
-6. Configure Application: Update the configuration file or environment variables with the necessary API credentials and database connection details.
-7. Run the Application: Launch the Streamlit application using the command-line interface.
+5. Configure Application: Update the configuration file or environment variables with the necessary API credentials and database connection details.
+6. Run the Application: Launch the Streamlit application using the command-line interface.
 
 **Usage**
 
