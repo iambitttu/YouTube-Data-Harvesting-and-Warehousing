@@ -61,7 +61,7 @@ The YouTube Data Harvesting and Warehousing application offers the following fea
 
 Here are some potential future enhancements for the YouTube Data Harvesting and Warehousing project:
 - Authentication and User Management: Implement user authentication and management functionality to secure access to the application.
-- Scheduled Data Harvesting: Set up automated data harvesting for selected YouTube channels at regular intervals.
+- Scheduled Data Harvesting: Set up automated data harvesting for selected YouTube channels regularly.
 - Advanced Search and Filtering: Enhance the search functionality to allow for more advanced search criteria and filtering options.
 - Additional Data Sources: Extend the project to support data retrieval from other social media platforms or streaming services.
 - Advanced-Data Analysis: Incorporate advanced analytics techniques and machine learning algorithms for deeper insights into YouTube data.
